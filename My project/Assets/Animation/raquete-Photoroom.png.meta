@@ -1,0 +1,394 @@
+fileFormatVersion: 2
+guid: 6b85039d2634a504cb6b9472ed893edc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6159104809478211216
+    second: raquete-Photoroom_0
+  - first:
+      213: 3082119122282190182
+    second: raquete-Photoroom_1
+  - first:
+      213: -7278800499067789123
+    second: raquete-Photoroom_2
+  - first:
+      213: 3711624480386054687
+    second: raquete-Photoroom_3
+  - first:
+      213: 6085443738124728126
+    second: raquete-Photoroom_4
+  - first:
+      213: -486014052400036867
+    second: raquete-Photoroom_5
+  - first:
+      213: -6421214098668178807
+    second: raquete-Photoroom_6
+  - first:
+      213: -8258197312140338198
+    second: raquete-Photoroom_7
+  - first:
+      213: 3371071228069991245
+    second: raquete-Photoroom_8
+  - first:
+      213: 6986432448784043395
+    second: raquete-Photoroom_9
+  - first:
+      213: 8360991539574408618
+    second: raquete-Photoroom_10
+  - first:
+      213: -8654616592892101905
+    second: raquete-Photoroom_11
+  - first:
+      213: 4275312079018531926
+    second: raquete-Photoroom_12
+  - first:
+      213: -6560235803416604012
+    second: raquete-Photoroom_13
+  - first:
+      213: 2421087646092934302
+    second: raquete-Photoroom_14
+  - first:
+      213: -7990223085428249200
+    second: raquete-Photoroom_15
+  - first:
+      213: 5219005544322959566
+    second: raquete-Photoroom_16
+  - first:
+      213: 5920257980936276154
+    second: raquete-Photoroom_17
+  - first:
+      213: 3801910479187511054
+    second: raquete-Photoroom_18
+  - first:
+      213: -6406777379408480569
+    second: raquete-Photoroom_19
+  - first:
+      213: -1733509462229246512
+    second: raquete-Photoroom_20
+  - first:
+      213: 910634878087329516
+    second: raquete-Photoroom_21
+  - first:
+      213: -8953295591742108504
+    second: raquete-Photoroom_22
+  - first:
+      213: -4533464897414799943
+    second: raquete-Photoroom_23
+  - first:
+      213: -5729360497919757467
+    second: raquete-Photoroom_24
+  - first:
+      213: 8095959989796433156
+    second: raquete-Photoroom_25
+  - first:
+      213: -2681642325321609845
+    second: raquete-Photoroom_26
+  - first:
+      213: -4333444420496716870
+    second: raquete-Photoroom_27
+  - first:
+      213: -244995708767329687
+    second: raquete-Photoroom_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: raquete-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 604
+        width: 257
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079b6a0eec6768aa0800000000000000
+      internalID: -6159104809478211216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raquete-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 605
+        width: 259
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665911f0303e5ca20800000000000000
+      internalID: 3082119122282190182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raquete-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 611
+        width: 266
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0e026c2818cfa90800000000000000
+      internalID: -7278800499067789123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raquete-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 600
+        width: 249
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1afd05ccc6528330800000000000000
+      internalID: 3711624480386054687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raquete-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 125
+        width: 251
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37bc8776d6d37450800000000000000
+      internalID: 6085443738124728126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raquete-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 101
+        width: 264
+        height: 389
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df309da5bc45149f0800000000000000
+      internalID: -486014052400036867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raquete-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 100
+        width: 267
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982372e5cc343e6a0800000000000000
+      internalID: -6421214098668178807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9804a1db2c392d24883e865de6c180a1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":384.0,"y":512.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      raquete-Photoroom_0: -6159104809478211216
+      raquete-Photoroom_1: 3082119122282190182
+      raquete-Photoroom_2: -7278800499067789123
+      raquete-Photoroom_3: 3711624480386054687
+      raquete-Photoroom_4: 6085443738124728126
+      raquete-Photoroom_5: -486014052400036867
+      raquete-Photoroom_6: -6421214098668178807
+      raquete-Photoroom_7: -8258197312140338198
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
