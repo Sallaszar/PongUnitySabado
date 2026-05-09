@@ -15,11 +15,11 @@ public class GameOver : MonoBehaviour
             gameOverText.gameObject.SetActive(true);
             gameOverText.text = $"Parabens {Winner} wins!!";
 
-            if (Winner == "enemy")
+            if (Winner == "Enemy")
             {
                 gameOverText.color = Color.red;
             }
-            else if (Winner== "player")
+            else if (Winner== "Player")
             {
                 gameOverText.color = Color.green;
             }
